@@ -24,7 +24,7 @@
       },
       "instance_type": "t2.micro",
       "ssh_username": "ubuntu",
-      "ami_name": "augusta-packerdb-mehdi-{{timestamp}}"
+      "ami_name": "augusta-bakedimage-packerdb-mehdi-{{timestamp}}"
     }
   ],
   "provisioners": [
